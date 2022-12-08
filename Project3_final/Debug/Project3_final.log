@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\cs\cu\second year\second term\modeling\Project3_final\Project3_final\Source.cpp(249): warning C4715: 'paymentcheck::check_payment': not all control paths return a value
+  Project3_final.vcxproj -> D:\cs\cu\second year\second term\modeling\Project3_final\Debug\Project3_final.exe
